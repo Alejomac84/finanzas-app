@@ -1,0 +1,1 @@
+// Código del componente FinanzasApp será copiado desde Canvas manualmente luego
